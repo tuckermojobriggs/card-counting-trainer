@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+
+# Build artifacts
+build/
+DerivedData/
+.build/
+
+# Swift Package Manager
+Packages/
+Package.resolved
+.swiftpm/
+
+# CocoaPods / Carthage (not used here, but kept for safety)
+Pods/
+Carthage/Build/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
